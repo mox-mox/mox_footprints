@@ -1,5 +1,5 @@
-(module Via-0.5mm (layer F.Cu) (tedit 5705AD03)
-  (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
+(module Via-0.5mm locked (layer F.Cu) (tedit 5705AD03)
+  (fp_text reference REF**1151 (at 0 1) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value Via-0.5mm (at 0 -1) (layer F.Fab) hide
